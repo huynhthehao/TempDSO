@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="DevSecOps Activities"
+    name="Level 0 - DevSecOps Activities"
     id="id-9eca7ce647be4a5292141bc1e7a88f6f">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

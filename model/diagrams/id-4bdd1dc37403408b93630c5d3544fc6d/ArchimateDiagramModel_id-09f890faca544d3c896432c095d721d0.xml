@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Level 0 - High-Level Design"
+    name="Level 1.1 - High-Level Design"
     id="id-09f890faca544d3c896432c095d721d0"
     documentation="Filebeat is a lightweight shipper for forwarding and centralizing log data. Installed as an agent on servers, Filebeat monitors the log files or locations that specified, collects log events, and forwards them either to Elasticsearch or Logstash for indexing">
   <children
