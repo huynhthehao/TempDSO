@@ -1,0 +1,42 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="202. DSO Engineer-Git Server_Interfacing"
+    id="id-e158e0c1c3514cc5843b058ccaae9e68">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-ad15c0fd83e44284a19dc7d3204ff8a9"
+      targetConnections="id-5871aca375f7404f8c1052e6045fe3ea"
+      font="1|Arial|10.2|0|WINDOWS|1|-17|0|0|0|400|0|0|0|0|3|2|1|34|Arial">
+    <bounds
+        x="48"
+        y="60"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_id-74548c33f5fc4b819e8a548c1f2940ef.xml#id-74548c33f5fc4b819e8a548c1f2940ef"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-040bc6cedd784abc8352799192161b47"
+      textPosition="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-5871aca375f7404f8c1052e6045fe3ea"
+        source="id-040bc6cedd784abc8352799192161b47"
+        target="id-ad15c0fd83e44284a19dc7d3204ff8a9">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-699b9e96088b48d7ac390abf6d44abef.xml#id-699b9e96088b48d7ac390abf6d44abef"/>
+    </sourceConnections>
+    <bounds
+        x="301"
+        y="66"
+        width="168"
+        height="43"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationInterface"
+        href="ApplicationInterface_id-7a39e5914b3c4fd4a4550792198fd72d.xml#id-7a39e5914b3c4fd4a4550792198fd72d"/>
+  </children>
+</archimate:ArchimateDiagramModel>

@@ -1,0 +1,8 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gitlab Rails"
+    id="id-abc99bdb12b6421488c9c242b46fdc8e">
+  <properties
+      key="Version"
+      value="14.10.0-ee"/>
+</archimate:SystemSoftware>

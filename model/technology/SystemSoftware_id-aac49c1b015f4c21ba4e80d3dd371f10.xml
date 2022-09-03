@@ -1,0 +1,8 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ruby"
+    id="id-aac49c1b015f4c21ba4e80d3dd371f10">
+  <properties
+      key="Version"
+      value="2.5.9p229"/>
+</archimate:SystemSoftware>

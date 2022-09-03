@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Push"
+    id="id-46028c722a0f439eb630d4d39262758c">
+  <source
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_id-2bdf2822c04d4c93aeb1c28fa51ead5f.xml#id-2bdf2822c04d4c93aeb1c28fa51ead5f"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8d465ca45bee4fb49b90994120e309a5.xml#id-8d465ca45bee4fb49b90994120e309a5"/>
+</archimate:FlowRelationship>

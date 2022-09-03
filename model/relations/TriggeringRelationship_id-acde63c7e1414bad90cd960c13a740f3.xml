@@ -1,0 +1,13 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Spin up pod"
+    id="id-acde63c7e1414bad90cd960c13a740f3"
+    documentation="Using across VPC assume role between DSO VPC and project VPC(s)">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-b6872835b3b749938c9c418a138a508f.xml#id-b6872835b3b749938c9c418a138a508f"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-00d38800576240bf87b0535965d175ea.xml#id-00d38800576240bf87b0535965d175ea"/>
+</archimate:TriggeringRelationship>

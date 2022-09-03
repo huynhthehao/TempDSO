@@ -1,0 +1,8 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sidekiq"
+    id="id-f348a4937c824b9c81872f007100d7b8">
+  <properties
+      key="Version"
+      value="6.4.0"/>
+</archimate:SystemSoftware>

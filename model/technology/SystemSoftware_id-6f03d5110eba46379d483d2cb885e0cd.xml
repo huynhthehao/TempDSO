@@ -1,0 +1,8 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Puppet Master"
+    id="id-6f03d5110eba46379d483d2cb885e0cd">
+  <properties
+      key="Version"
+      value="7.15.0"/>
+</archimate:SystemSoftware>

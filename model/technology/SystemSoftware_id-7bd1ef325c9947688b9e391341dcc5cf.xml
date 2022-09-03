@@ -1,0 +1,8 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Git client"
+    id="id-7bd1ef325c9947688b9e391341dcc5cf">
+  <properties
+      key="Version"
+      value="2.27.0"/>
+</archimate:SystemSoftware>

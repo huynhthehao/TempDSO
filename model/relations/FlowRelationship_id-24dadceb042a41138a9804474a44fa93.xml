@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pull Instruction"
+    id="id-24dadceb042a41138a9804474a44fa93">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-fd507057213b48e28160ec6c4521fd7d.xml#id-fd507057213b48e28160ec6c4521fd7d"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-6b625c43f05c42f3bd65693cee0057af.xml#id-6b625c43f05c42f3bd65693cee0057af"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,14 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VM"
+    id="id-5fb56e5adceb45bf8897b76591230984">
+  <properties
+      key="vCPU"
+      value="4"/>
+  <properties
+      key="Mem"
+      value="32GB"/>
+  <properties
+      key="Disk"
+      value="100GB"/>
+</archimate:Device>

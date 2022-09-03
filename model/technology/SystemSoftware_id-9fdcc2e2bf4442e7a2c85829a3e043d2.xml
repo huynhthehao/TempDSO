@@ -1,0 +1,8 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Puppet Server"
+    id="id-9fdcc2e2bf4442e7a2c85829a3e043d2">
+  <properties
+      key="Version"
+      value="1.0"/>
+</archimate:SystemSoftware>

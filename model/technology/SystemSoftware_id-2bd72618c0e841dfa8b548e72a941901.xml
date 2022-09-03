@@ -1,0 +1,8 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nexus"
+    id="id-2bd72618c0e841dfa8b548e72a941901">
+  <properties
+      key="Version"
+      value="3.37.0-01"/>
+</archimate:SystemSoftware>

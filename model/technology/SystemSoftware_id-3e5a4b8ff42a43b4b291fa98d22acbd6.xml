@@ -1,0 +1,8 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SonarQube"
+    id="id-3e5a4b8ff42a43b4b291fa98d22acbd6">
+  <properties
+      key="Version"
+      value="8.9.1.44547"/>
+</archimate:SystemSoftware>

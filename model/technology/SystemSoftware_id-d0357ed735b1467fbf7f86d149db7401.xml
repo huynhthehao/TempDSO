@@ -1,0 +1,8 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Jenkins Application"
+    id="id-d0357ed735b1467fbf7f86d149db7401">
+  <properties
+      key="Version"
+      value="2.346.2"/>
+</archimate:SystemSoftware>

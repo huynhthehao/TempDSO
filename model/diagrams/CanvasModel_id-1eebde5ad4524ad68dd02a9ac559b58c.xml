@@ -1,0 +1,43 @@
+<canvas:CanvasModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
+    name="New Canvas"
+    id="id-1eebde5ad4524ad68dd02a9ac559b58c">
+  <children
+      xsi:type="canvas:CanvasModelSticky"
+      id="id-b0ca4532c0a647b4a7768c66e0e85fee"
+      fillColor="#ffffff"
+      borderColor="#C0C0C0"
+      textPosition="1">
+    <bounds
+        x="204"
+        y="120"
+        width="901"
+        height="229"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelSticky"
+      id="id-f3401050e5404897907ade3e5721c017"
+      fillColor="#ffff95"
+      borderColor="#C0C0C0"
+      textPosition="1">
+    <bounds
+        x="204"
+        y="366"
+        width="901"
+        height="223"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-861bf5394b2142e6b95945bf92602662">
+    <bounds
+        x="240"
+        y="156"
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-291c52cdb2d94f3296abbc18c3149655.xml#id-291c52cdb2d94f3296abbc18c3149655"/>
+  </children>
+</canvas:CanvasModel>

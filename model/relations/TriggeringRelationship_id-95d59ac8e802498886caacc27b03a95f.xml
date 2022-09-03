@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2. Commit"
+    id="id-95d59ac8e802498886caacc27b03a95f">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-00d38800576240bf87b0535965d175ea.xml#id-00d38800576240bf87b0535965d175ea"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9ddf20a5c2a649bca1ac73cf0f00addb.xml#id-9ddf20a5c2a649bca1ac73cf0f00addb"/>
+</archimate:TriggeringRelationship>

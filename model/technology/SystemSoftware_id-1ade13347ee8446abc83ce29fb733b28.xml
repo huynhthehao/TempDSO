@@ -1,0 +1,8 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JDK"
+    id="id-1ade13347ee8446abc83ce29fb733b28">
+  <properties
+      key="Version"
+      value="11.0.3"/>
+</archimate:SystemSoftware>

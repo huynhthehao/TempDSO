@@ -1,0 +1,8 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Puppet agent"
+    id="id-f9815b719cf6458693669ea1ac754b73">
+  <properties
+      key="Version"
+      value="1.0"/>
+</archimate:SystemSoftware>

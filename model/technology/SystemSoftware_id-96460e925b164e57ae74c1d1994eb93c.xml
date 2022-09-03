@@ -1,0 +1,8 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Node Exporter"
+    id="id-96460e925b164e57ae74c1d1994eb93c">
+  <properties
+      key="Version"
+      value="1.1.0"/>
+</archimate:SystemSoftware>
