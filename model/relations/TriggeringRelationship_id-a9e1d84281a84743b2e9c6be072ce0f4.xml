@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="flows to"
+    id="id-a9e1d84281a84743b2e9c6be072ce0f4">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-aa48d269879340a59c783c645f9d9c67.xml#id-aa48d269879340a59c783c645f9d9c67"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-f7c804c03d134653b8a5ea3d5f699e64.xml#id-f7c804c03d134653b8a5ea3d5f699e64"/>
+</archimate:TriggeringRelationship>
