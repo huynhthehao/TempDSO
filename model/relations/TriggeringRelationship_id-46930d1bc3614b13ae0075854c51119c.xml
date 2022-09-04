@@ -1,7 +1,6 @@
 <archimate:TriggeringRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="flows to"
     id="id-46930d1bc3614b13ae0075854c51119c">
   <source
       xsi:type="archimate:BusinessService"
